@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">GridView</string>
+    <string name="one">ONE</string>
+    <string name="two">TWO</string>
+    <string name="three">THREE</string>
+    <string name="four">FOUR</string>
+    <string name="five">FIVE</string>
+    <string name="six">SIX</string>
+
 </resources>

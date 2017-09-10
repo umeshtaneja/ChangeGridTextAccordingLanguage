@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="one">EINS</string>
+    <string name="two">ZWEI</string>
+    <string name="three">DREI</string>
+    <string name="four">VIER</string>
+    <string name="five">FÜNF</string>
+    <string name="six">SECHS</string>
+
+</resources>
